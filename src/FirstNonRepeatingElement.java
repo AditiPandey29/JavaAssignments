@@ -28,7 +28,11 @@ import java.util.Scanner;
             System.out.println("First non-repeating element: " + findFirstNonRepeating(arr1)); // Output: 6
 
             int[] arr2 = {1, 1, 1, 2, 2, 3, 3};
+
             System.out.println("First non-repeating element: " + findFirstNonRepeating(arr2)); // Output: -1
+            System.out.println("print git hub");
+
         }
+
     }
 
